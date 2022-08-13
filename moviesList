@@ -3,29 +3,35 @@
     "id": 0,
     "title": "Thor: Love and Thunder",
     "image": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/07/Thor-Amor-e-Trovao-banner-750x422.jpg",
-    "description": "Thor: Love And Thunder é quarta aventura solo de Thor (Chris Hemsworth), personagem da Marvel. O próximo filme do super-herói pretende ser a sequência direta de Thor: Ragnarok e o 29º filme do Universo Cinematográfico Marvel.",
+    "description": "Thor: Amor e Trovão é quarta aventura solo de Thor (Chris Hemsworth), personagem da Marvel, sendo a sequência direta de Thor: Ragnarok e o 29º filme do Universo Cinematográfico Marvel. Após os acontecimentos de Ultimato, Thor ansiando por um propósito, retorna a Nova Asgard e sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr (Christian Bale), o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda da Rainha Valquíria (Tessa Thompson), Korg (Taika Waititi) e Jane Foster (Natalie Portman), sua ex-namorada, que - para surpresa de Thor - inexplicavelmente consegue empunhar seu martelo mágico, Mjolnir, o que imbuiu Jane com o poder de Thor. Juntos, eles embarcam em uma aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demais.",
     "release_date": "07/07/2022"
   },
   {
     "id": 1,
     "title": "Minions 2",
     "image": "https://i0.wp.com/categorianerd.com/wp-content/uploads/2020/04/minions-2-a-origem-de-gru-1087782.jpg?fit=1920%2C1080&ssl=1",
-    "description": "Minions 2: A Origem de Gru é a continuação das aventuras dos Minions, e desta vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão. Na década de 1970, Gru está crescendo no subúrbio. Fã de um grupo de supervilões conhecido como Vicious 6, Gru traça um plano para se tornar malvado o suficiente para se juntar a eles.",
+    "description": "Minions 2: A Origem de Gru é a continuação das aventuras dos Minions, e desta vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão. Na década de 1970, Gru está crescendo no subúrbio. Fã de um grupo de supervilões conhecido como Vicious 6, Gru traça um plano para se tornar malvado o suficiente para se juntar a eles. Felizmente, ele recebe apoio de seus leais seguidores, os Minions. Juntos, eles exercem suas habilidades enquanto constroem seu primeiro covil, experimentam suas primeiras armas e realizam as primeiras missões. Quando os Vicious 6 expulsam seu líder - o lendário lutador Wild Knuckles - Gru participa de uma entrevista para se tornar seu mais novo membro. A entrevista não vai bem, e só piora depois que Gru os supera e de repente, o garoto se vê como inimigo mortal do grupo do mal. Gru se voltará para uma fonte improvável de orientação, o próprio Wild Knuckles, e descobrirá que até os supervilões precisam de uma ajudinha de seus amigos.",
     "release_date": "30/06/2022"
   },
    {
     "id": 2,
     "title": "Jurassic World - Dominion",
     "image": "https://images.wallpapersden.com/image/download/official-jurassic-world-dominion-hd-poster_bWlpbGuUmZqaraWkpJRmbmdlrWZlbWU.jpg",
-    "description": "Em Jurassic World Domínio, sequência direta do longa de 2018, - Jurassic World: Reino Ameaçado - os dinossauros agora circulam livres pelo mundo humano após os acontecimentos recentes. Alguns conseguem coexistir de forma pacífica em sociedade, todavia, outros trazem problemas.",
+    "description": "Em Jurassic World Domínio, sequência direta do longa de 2018 Jurassic World: Reino Ameaçado, quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem - e caçam - ao lado de humanos em todo o mundo. Contudo, nem todos répteis consegue viver em harmonia com a espécie humana, trazendo problemas graves. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história em uma nova era. Os ex-funcionários do parque dos dinossauros, Claire (Bryce Dallas Howard) e Owen (Chris Pratt) se envolvem nessa problemática e buscam uma solução, contando com a ajuda dos cientistas experientes em dinossauros, que retornam dos filmes antecessores. Capítulo final da trilogia iniciada por Jurassic World - O Mundo dos Dinossauros.",
     "release_date": "02/06/2022"
   },
   {
     "id": 3,
     "title": "Top Gun: Maverick",
     "image": "https://cdn-www.comingsoon.net/assets/uploads/2019/12/Top-Gun.jpg",
-    "description": "Depois de mais de trinta anos de serviço como um dos principais aviadores da Marinha, Pete Mitchell está de volta ao lugar dele.",
+    "description": "Na sequência de Top Gun: Ases Indomáveis, acompanhamos a história de Pete “Maverick” Mitchell (Tom Cruise), um piloto à moda antiga da Marinha que coleciona muitas condecorações, medalhas de combate e grande reconhecimento pela quantidade de aviões inimigos abatidos nos últimos 30 anos. Entretanto, nada disso foi suficiente para sua carreira decolar, visto que ele deixou de ser um capitão e tornou-se um instrutor. A explicação para esse declínio é simples: Ele continua sendo o mesmo piloto rebelde de sempre, que não hesita em romper os limites e desafiar a morte. Nesta nova aventura, Maverick precisa provar que o fator humano ainda é fundamental no mundo contemporâneo das guerras tecnológicas. Após 34 anos do clássico, acompanhem o filme do premiado produtor Jerry Bruckheimer e de Joseph Kosinski, mesmo diretor de Tron: O Legado (2010) e Oblivion (2013)..",
     "release_date": "26/05/2022"
+  },
+  {
+    "id": 4,
+    "title": "Bullet Train",
+    "image": "https://culturedvultures.com/wp-content/uploads/2022/08/Bullet-Train.jpeg",
+    "description": "Em Trem-Bala, Ladybug (Brad Pitt) é um assassino azarado, determinado a fazer seu trabalho pacificamente depois de muitas missões saírem dos trilhos. Quase desistindo de sua carreira, ele é recrutado por Maria Beetle (Sandra Bullock) para coletar uma maleta em um trem-bala indo de Tóquio para Morioka. O destino, no entanto, pode ter outros planos, pois a última missão de Ladybug o coloca em rota de colisão com adversários letais de todo o mundo - todos com objetivos conectados, mas conflitantes. A bordo estão os companheiros assassinos Kimura, Prince, Tangerine e Lemon.  No trem mais rápido do mundo - um dos trens-bala Shinkansen, no Japão - Ladybug fica sob ameaça com uma bomba que explodirá automaticamente se o trem diminuir a velocidade abaixo de 80 quilômetros por hora, a menos que um resgate seja pago. E ele precisa descobrir como sair.",
+    "release_date": "04/08/2022"
   }
- 
 ]
