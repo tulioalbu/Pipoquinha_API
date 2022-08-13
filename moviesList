@@ -1,30 +1,30 @@
 [
   {
     "id": 0,
-    "titulo": "Thor: Love and Thunder",
-    "imagem": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/07/Thor-Amor-e-Trovao-banner-750x422.jpg",
-    "descricao": "Thor: Love And Thunder é quarta aventura solo de Thor (Chris Hemsworth), personagem da Marvel. O próximo filme do super-herói pretende ser a sequência direta de Thor: Ragnarok e o 29º filme do Universo Cinematográfico Marvel.",
-    "data_lancamento": "07/07/2022"
+    "title": "Thor: Love and Thunder",
+    "image": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/07/Thor-Amor-e-Trovao-banner-750x422.jpg",
+    "description": "Thor: Love And Thunder é quarta aventura solo de Thor (Chris Hemsworth), personagem da Marvel. O próximo filme do super-herói pretende ser a sequência direta de Thor: Ragnarok e o 29º filme do Universo Cinematográfico Marvel.",
+    "release_date": "07/07/2022"
   },
   {
     "id": 1,
-    "titulo": "Minions 2",
-    "imagem": "https://i0.wp.com/categorianerd.com/wp-content/uploads/2020/04/minions-2-a-origem-de-gru-1087782.jpg?fit=1920%2C1080&ssl=1",
-    "descricao": "Minions 2: A Origem de Gru é a continuação das aventuras dos Minions, e desta vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão. Na década de 1970, Gru está crescendo no subúrbio. Fã de um grupo de supervilões conhecido como Vicious 6, Gru traça um plano para se tornar malvado o suficiente para se juntar a eles.",
-    "data_lancamento": "30/06/2022"
+    "title": "Minions 2",
+    "image": "https://i0.wp.com/categorianerd.com/wp-content/uploads/2020/04/minions-2-a-origem-de-gru-1087782.jpg?fit=1920%2C1080&ssl=1",
+    "description": "Minions 2: A Origem de Gru é a continuação das aventuras dos Minions, e desta vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão. Na década de 1970, Gru está crescendo no subúrbio. Fã de um grupo de supervilões conhecido como Vicious 6, Gru traça um plano para se tornar malvado o suficiente para se juntar a eles.",
+    "release_date": "30/06/2022"
   },
   {
     "id": 2,
-    "titulo": "Top Gun: Maverick",
-    "imagem": "https://cdn-www.comingsoon.net/assets/uploads/2019/12/Top-Gun.jpgg",
-    "descricao": "Depois de mais de trinta anos de serviço como um dos principais aviadores da Marinha, Pete Mitchell está de volta ao lugar dele.",
-    "data_lancamento": "26/05/2022"
+    "title": "Top Gun: Maverick",
+    "image": "https://cdn-www.comingsoon.net/assets/uploads/2019/12/Top-Gun.jpgg",
+    "description": "Depois de mais de trinta anos de serviço como um dos principais aviadores da Marinha, Pete Mitchell está de volta ao lugar dele.",
+    "release_date": "26/05/2022"
   },
   {
     "id": 3,
-    "titulo": "Jurassic World - Dominion",
-    "imagem": "https://cafecomnerd.com.br/wp-content/uploads/2022/04/JURASSIC-WORLD-DOMINION-Novo-poster-divulgado-pela-Universal-Pictures-combina-passado-com-presente.jpg",
-    "descricao": "Em Jurassic World Domínio, sequência direta do longa de 2018, - Jurassic World: Reino Ameaçado - os dinossauros agora circulam livres pelo mundo humano após os acontecimentos recentes. Alguns conseguem coexistir de forma pacífica em sociedade, todavia, outros trazem problemas.",
-    "data_lancamento": "02/06/2022"
+    "title": "Jurassic World - Dominion",
+    "image": "https://cafecomnerd.com.br/wp-content/uploads/2022/04/JURASSIC-WORLD-DOMINION-Novo-poster-divulgado-pela-Universal-Pictures-combina-passado-com-presente.jpg",
+    "description": "Em Jurassic World Domínio, sequência direta do longa de 2018, - Jurassic World: Reino Ameaçado - os dinossauros agora circulam livres pelo mundo humano após os acontecimentos recentes. Alguns conseguem coexistir de forma pacífica em sociedade, todavia, outros trazem problemas.",
+    "release_date": "02/06/2022"
   }
 ]
