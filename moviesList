@@ -13,18 +13,19 @@
     "description": "Minions 2: A Origem de Gru é a continuação das aventuras dos Minions, e desta vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão. Na década de 1970, Gru está crescendo no subúrbio. Fã de um grupo de supervilões conhecido como Vicious 6, Gru traça um plano para se tornar malvado o suficiente para se juntar a eles.",
     "release_date": "30/06/2022"
   },
-  {
+   {
     "id": 2,
-    "title": "Top Gun: Maverick",
-    "image": "https://cdn-www.comingsoon.net/assets/uploads/2019/12/Top-Gun.jpg",
-    "description": "Depois de mais de trinta anos de serviço como um dos principais aviadores da Marinha, Pete Mitchell está de volta ao lugar dele.",
-    "release_date": "26/05/2022"
-  },
-  {
-    "id": 3,
     "title": "Jurassic World - Dominion",
     "image": "https://burnbook.b-cdn.net/wp-content/uploads/2022/05/JURASSIC-WORLD-DOMINION-Novo-poster-divulgado-pela-Universal-Pictures-combina-passado-com-presente-1140x560.jpg",
     "description": "Em Jurassic World Domínio, sequência direta do longa de 2018, - Jurassic World: Reino Ameaçado - os dinossauros agora circulam livres pelo mundo humano após os acontecimentos recentes. Alguns conseguem coexistir de forma pacífica em sociedade, todavia, outros trazem problemas.",
     "release_date": "02/06/2022"
+  },
+  {
+    "id": 3,
+    "title": "Top Gun: Maverick",
+    "image": "https://cdn-www.comingsoon.net/assets/uploads/2019/12/Top-Gun.jpg",
+    "description": "Depois de mais de trinta anos de serviço como um dos principais aviadores da Marinha, Pete Mitchell está de volta ao lugar dele.",
+    "release_date": "26/05/2022"
   }
+ 
 ]
